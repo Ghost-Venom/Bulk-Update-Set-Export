@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "name": "x-1404459-bulk-update",
+  "version": "1.0.0",
+  "description": "[BUILD AGENT GENERATED]:  Portable Bulk Update Set Exporter – works on any instance",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "jszip": "3.10.1"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.2.0",
+    "@servicenow/glide": "26.0.1",
+    "eslint": "8.50.0",
+    "@servicenow/eslint-plugin-sdk-app-plugin": "4.2.0"
+  }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_1404459_bulk_upd/x-1404459-bulk-update/1.0.0/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-19 16:16:08</sys_created_on>
+        <sys_id>98cbe0971a1f4d769ae37251cf48f475</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1404459_bulk_upd/x-1404459-bulk-update/1.0.0/package.json</sys_name>
+        <sys_package display_value="Bulk Update" source="x_1404459_bulk_upd">3ba1f7d3c3833210a8797b2ed40131d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bulk Update">3ba1f7d3c3833210a8797b2ed40131d7</sys_scope>
+        <sys_update_name>sys_module_98cbe0971a1f4d769ae37251cf48f475</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-19 16:16:08</sys_updated_on>
+    </sys_module>
+</record_update>
